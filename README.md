@@ -1,4 +1,4 @@
-# SUTD Canteen wait-time prediction
+# Predicting the Average Wait Time at the canteen store
 
 The objective was to use linear regression to predict the average wait time in any store of our choice in the SUTD canteen during the store's operation. The code takes in user input and returns an approximate value for the crowd level at a user-specified time.
 
